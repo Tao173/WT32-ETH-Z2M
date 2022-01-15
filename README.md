@@ -56,11 +56,11 @@ Backlog MqttHost 192.168.124.23; MqttUser <user>; MqttPassword <password>;
 
 ### 20220115更新
 
+<img src="https://raw.githubusercontent.com/Tao173/WT32-ETH-Z2M/main/homepage.png" >
+
 
 添加[ZigStarGW-FW](https://github.com/xyzroe/ZigStarGW-FW)汉化版本，去除多余内容，help相关页面，支持有线网络同时支持无线网络。
 
 UTF8编码汉化，gulp --tasks修改web页，gulp default修改网页模块，需要nodejs和npm。
 
-参考
-
-[前端修改](https://github.com/esprfid/esp-rfid#frontend)
+参考 [前端修改](https://github.com/esprfid/esp-rfid#frontend)
