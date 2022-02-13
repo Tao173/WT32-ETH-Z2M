@@ -55,7 +55,7 @@ Backlog MqttHost 192.168.124.23; MqttUser <user>; MqttPassword <password>;
 
 ### 20220115更新
 
-<img src="https://raw.githubusercontent.com/Tao173/WT32-ETH-Z2M/main/homepage.png" >
+<img src="https://raw.githubusercontent.com/Tao173/WT32-ETH-Z2M/main/images/homepage.png" >
 
 添加[ZigStarGW-FW](https://github.com/xyzroe/ZigStarGW-FW)汉化版本，去除多余内容，help相关页面，支持有线网络同时支持无线网络。
 
@@ -66,3 +66,9 @@ UTF8编码汉化，gulp --tasks修改web页，gulp default修改网页模块，�
 ### 20220213更新
 
 单独设计4*5cm的ESP32的lan口版本底板，ZB模块单独设计。
+
+
+<img src="https://raw.githubusercontent.com/Tao173/WT32-ETH-Z2M/main/images/正面.png" >
+
+
+<img src="https://raw.githubusercontent.com/Tao173/WT32-ETH-Z2M/main/images/背面.png" >
