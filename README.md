@@ -65,7 +65,7 @@ UTF8编码汉化，gulp --tasks修改web页，gulp default修改网页模块，�
 
 ### 20220213更新
 
-单独设计4*5cm的ESP32的lan口版本底板，ZB模块单独设计。
+单独设计4*5cm的ESP32的lan口版本底板，ZB模块单独设计。测试板。。。。
 
 
 <img src="https://raw.githubusercontent.com/Tao173/WT32-ETH-Z2M/main/images/正面.png" >
